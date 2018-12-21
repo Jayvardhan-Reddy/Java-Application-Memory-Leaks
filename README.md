@@ -4,7 +4,7 @@ Empowering you to perform Heap dump generation & Analysis using JMAP, JMAT, JVis
 
 ## As part of this you will learn. 
 
-:zap: How to generate Heap dump using various tools inorder to detect the memory leaks that occur as part of your application.
+:zap: How to generate Heap dump using various tools inorder to detect, the memory leaks that occur as part of your application.
 - Check the below link on how to install and use the tool.
 
 :link: [Heap Dump Generation Tools](https://www.linkedin.com/pulse/heap-dump-generation-analysis-using-jmap-jmat-tools-vanchireddy/)
