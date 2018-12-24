@@ -2,6 +2,8 @@
 
 Empowering you to perform Heap dump generation & Analysis using JMAP, JMAT, JVisualVM Tools. :100:
 
+<img src="images/Memory_leaks.jpg" width="400">
+
 ## As part of this you will learn. 
 
 :zap: How to generate Heap dump using various tools inorder to detect, the memory leaks that occur as part of your application.
